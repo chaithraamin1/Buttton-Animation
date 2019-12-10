@@ -1,0 +1,49 @@
+
+    .button-wrapper{
+    position: absolute;
+    right:  -268px;
+
+    transition: 0.3s;
+    padding: 15px;
+    width: 350px;     
+
+    border: none;
+    background:red;
+    padding: 10px 0px;
+    color: #fff;
+     margin: 10px 0px;
+
+    transition: right ease-in-out 1s;
+    }
+
+
+.inline-text {
+    padding-left: 0 !important;
+    margin-left: -5px;    
+    position: relative;
+}
+
+img
+{
+    width: 30px;
+    padding-left: 30px;
+}
+ 
+
+.item1
+{
+    margin-top: 10px;
+}
+.item2
+{
+    margin-top: 90px;
+}
+.item3
+{
+    margin-top: 166px;
+}
+.button-wrapper:hover
+{
+    left: 990px;
+
+}
